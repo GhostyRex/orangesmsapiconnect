@@ -1,6 +1,6 @@
 import requests
 
-# Testing out the branch thing on github
+
 # The the access token required to send a text message.
 class CreateToken:
 
